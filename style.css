@@ -11,4 +11,10 @@ boby {
 footer {
     background-color: aquamarine;
     color:blue;
+} 
+
+.imagem-2{
+    width: 40%;
+    align-items: center;
+    margin-left: 200px;
 }
